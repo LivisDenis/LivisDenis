@@ -1,14 +1,19 @@
 ### Hi there 👋
 
 Skills: 
-- Html, css, scss(~8 months)
-- JavaScript(~4 months)
-- React/Redux(~4 months)
-- TypeScript(~1 month)
+- Html, scss
+- JavaScript
+- React
+- Redux Toolkit
+- TypeScript
+- Tailwind
 - Bootstrap
+- Material UI
+- Formik
+- React hook form
 - Git
 
-Had experience with: Node.js, Express, MongoDB, Next.js, Firebase, React-Bootstrap
+Had experience with: Node.js, Express, MongoDB, Next.js, Firebase, React-Bootstrap, MobX
 
 
 <!--
