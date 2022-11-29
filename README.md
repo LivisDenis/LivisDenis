@@ -13,7 +13,7 @@ Skills:
 - React hook form
 - Git
 
-Had experience with: Node.js, Express, MongoDB, Next.js, Firebase, React-Bootstrap, MobX
+Had experience with: Node.js, Express, MongoDB, Next.js, Firebase, MobX
 
 
 <!--
