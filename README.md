@@ -34,4 +34,4 @@
 ![eslint](https://camo.githubusercontent.com/3a1853bcde3555bc65ea48d85c4fe4abc44143c663ccab970765f0f9355e3588/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45534c696e742d3442333236333f7374796c653d666f722d7468652d6261646765266c6f676f3d65736c696e74266c6f676f436f6c6f723d7768697465)
 ![docker](https://camo.githubusercontent.com/6b7f701cf0bea42833751b754688f1a27b6090fdf90bf2b226addff01be817f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=livisdenis)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LivisDenis)](https://github.com/anuraghazra/github-readme-stats)
